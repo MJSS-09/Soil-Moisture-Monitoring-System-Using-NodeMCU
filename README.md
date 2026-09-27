@@ -156,8 +156,8 @@ If you're deploying this in actual soil (not just testing in air vs. water), cal
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
-**M . Jayantha Siva Srinivas**
-B.Tech | Electronics and Communication Engineering
+**Mallampally Jayantha Siva Srinivas** | **B.Tech | Electronics and Communication Engineering (ECE)**
 ESSCI-Certified Embedded Fullstack & IoT Analyst , SRM University(AP)
+---
